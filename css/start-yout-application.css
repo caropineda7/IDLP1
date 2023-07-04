@@ -1,0 +1,1091 @@
+/* screen - start-yout-application */
+
+.start-yout-application {
+  align-items: flex-start;
+  background-color: var(--black-haze);
+  border: 0px none;
+  display: flex;
+  height: 2413px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.start-yout-application .overlap-group6 {
+  height: 5308px;
+  margin-top: -80px;
+  position: relative;
+  width: 1572px;
+}
+
+.start-yout-application .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-39.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 1919px;
+  left: 0;
+  min-width: 1440px;
+  padding: 38px 0;
+  position: absolute;
+  top: 574px;
+}
+
+.start-yout-application .best-offer {
+  align-items: flex-end;
+  display: flex;
+  height: 1829px;
+  justify-content: center;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.start-yout-application .link-container {
+  align-items: flex-start;
+  background-color: var(--black-haze);
+  display: flex;
+  gap: 34px;
+  height: 2389px;
+  justify-content: flex-end;
+  margin-bottom: -559.05px;
+  min-width: 1442px;
+  padding: 1149px 596.6px;
+}
+
+.start-yout-application .link {
+  align-items: flex-start;
+  border: 2px solid;
+  border-color: var(--new-car);
+  border-radius: 4px;
+  display: flex;
+  height: 68px;
+  padding: 16px 33.39px 16px 32px;
+  position: relative;
+  width: 107px;
+}
+
+.start-yout-application .place {
+  color: var(--new-car);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-right: -4.00px;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.start-yout-application .link-1 {
+  align-items: flex-start;
+  background-color: var(--new-car);
+  border-radius: 4px;
+  display: flex;
+  height: 68px;
+  padding: 16px 33.39px 16px 32px;
+  position: relative;
+  width: 107px;
+}
+
+.start-yout-application .footer {
+  align-items: flex-end;
+  background-color: transparent;
+  background-image: url(../img/base-3.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: row;
+  height: 592px;
+  justify-content: flex-start;
+  left: 0;
+  mix-blend-mode: normal;
+  padding: 250px 508px;
+  position: absolute;
+  top: 1901px;
+  width: 1440px;
+}
+
+.start-yout-application .base {
+  height: 532px;
+  left: 0;
+  position: absolute;
+  top: 80px;
+  width: 1440px;
+}
+
+.start-yout-application .car-for-rent-in-your {
+  left: 150px;
+  letter-spacing: 0;
+  line-height: 80px;
+  position: absolute;
+  top: 228px;
+  width: 662px;
+}
+
+.start-yout-application .text {
+  height: 94px;
+  left: 150px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 407px;
+  width: 472px;
+}
+
+.start-yout-application .separator {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--outer-space-2);
+  height: 1px;
+  left: 64px;
+  position: absolute;
+  top: 2371px;
+  width: 1285px;
+}
+
+.start-yout-application .privacy-policy {
+  left: 883px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 2409px;
+  white-space: nowrap;
+  width: 175px;
+}
+
+.start-yout-application .terms-y-conditions {
+  left: 1102px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 2409px;
+  white-space: nowrap;
+  width: 245px;
+}
+
+.start-yout-application .image-10 {
+  height: 82px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 2044px;
+  width: 379px;
+}
+
+.start-yout-application .p {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 64px;
+  min-height: 38px;
+  position: absolute;
+  top: 2165px;
+  width: 210px;
+}
+
+.start-yout-application .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  margin-top: 2px;
+  min-width: 360px;
+}
+
+.start-yout-application .text-16 {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+  width: 12px;
+}
+
+.start-yout-application .p-1 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  height: 19px;
+  left: 64px;
+  min-width: 325px;
+  position: absolute;
+  top: 2222px;
+}
+
+.start-yout-application .text-17 {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 1.0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.start-yout-application .strong-select-language {
+  height: 14px;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 2262px;
+  white-space: nowrap;
+  width: 227px;
+}
+
+.start-yout-application .divswitcher {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  left: 64px;
+  position: absolute;
+  top: 2298px;
+  width: 173px;
+}
+
+.start-yout-application .link-2 {
+  border: 1px solid;
+  border-color: var(--celeste);
+  height: 32px;
+  min-width: 173px;
+  position: relative;
+}
+
+.start-yout-application .we-process-applicati {
+  height: 74px;
+  left: 508px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 2057px;
+  width: 274px;
+}
+
+.start-yout-application .start-your-application {
+  height: 19px;
+  left: 508px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-decoration: underline;
+  top: 2267px;
+  white-space: nowrap;
+  width: 242px;
+}
+
+.start-yout-application .text-18 {
+  height: 13px;
+  left: 750px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 2271px;
+  white-space: nowrap;
+  width: 11px;
+}
+
+.start-yout-application .heading-2-quick-links {
+  height: 18px;
+  left: 850px;
+  letter-spacing: 0.10px;
+  line-height: 26px;
+  position: absolute;
+  top: 2060px;
+  white-space: nowrap;
+  width: 282px;
+}
+
+.start-yout-application .list {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 850px;
+  min-height: 134px;
+  position: absolute;
+  top: 2089px;
+  width: 212px;
+}
+
+.start-yout-application .heading-2-resources {
+  height: 18px;
+  left: 1144px;
+  letter-spacing: 0.10px;
+  line-height: 26px;
+  position: absolute;
+  top: 2060px;
+  white-space: nowrap;
+  width: 203px;
+}
+
+.start-yout-application .list-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 1144px;
+  min-height: 80px;
+  position: absolute;
+  top: 2089px;
+  width: 206px;
+}
+
+.start-yout-application .copyright-2020-idl {
+  height: 13px;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 2419px;
+  white-space: nowrap;
+  width: 460px;
+}
+
+.start-yout-application .navbar {
+  background-color: var(--black-haze);
+  height: 148px;
+  left: 150px;
+  position: absolute;
+  top: 0;
+  width: 1140px;
+}
+
+.start-yout-application .group-106 {
+  align-items: center;
+  background-color: var(--new-car);
+  border-radius: 4px;
+  display: flex;
+  height: 40px;
+  left: 1099px;
+  min-width: 167px;
+  padding: 0 10px;
+  position: absolute;
+  top: 94px;
+}
+
+.start-yout-application .content {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  justify-content: center;
+  overflow: hidden;
+  width: 147px;
+}
+
+.start-yout-application .label {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 149px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.start-yout-application .link-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 32px;
+  left: 398px;
+  position: absolute;
+  top: 100px;
+  width: fit-content;
+}
+
+.start-yout-application .menu {
+  height: 28px;
+  min-width: 44px;
+  position: relative;
+}
+
+.start-yout-application .link-4 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 44px;
+}
+
+.start-yout-application .content-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  overflow: hidden;
+  width: 44px;
+}
+
+.start-yout-application .reservation {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.start-yout-application .menu-1 {
+  min-width: 51.25px;
+}
+
+.start-yout-application .link-5 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 51px;
+}
+
+.start-yout-application .content-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  overflow: hidden;
+  width: 51px;
+}
+
+.start-yout-application .offers {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.start-yout-application .menu-2 {
+  min-width: 123.5px;
+}
+
+.start-yout-application .link-6 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 124px;
+}
+
+.start-yout-application .content-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  width: 124px;
+}
+
+.start-yout-application .location {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.start-yout-application .menu-3 {
+  min-width: 29.94px;
+}
+
+.start-yout-application .link-7 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 30px;
+}
+
+.start-yout-application .content-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  overflow: hidden;
+  width: 30px;
+}
+
+.start-yout-application .cars-services {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.start-yout-application .menu-4 {
+  min-width: 85px;
+}
+
+.start-yout-application .link-8 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 85px;
+}
+
+.start-yout-application .content-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  width: 85px;
+}
+
+.start-yout-application .menu-5 {
+  min-width: 157px;
+}
+
+.start-yout-application .link-9 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 157px;
+}
+
+.start-yout-application .content-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  overflow: hidden;
+  width: 157px;
+}
+
+.start-yout-application .link-logo {
+  height: 38px;
+  left: 166px;
+  object-fit: cover;
+  position: absolute;
+  top: 95px;
+  width: 182px;
+}
+
+.start-yout-application .flexible-schedule {
+  left: 150px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 200px;
+  white-space: nowrap;
+  width: 484px;
+}
+
+.start-yout-application .group-116 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px -4px 20px #0000000a , 0px 28px 32px #00000014;
+  display: flex;
+  gap: 151px;
+  height: 107px;
+  left: 150px;
+  min-width: 1140px;
+  padding: 0 51px;
+  position: absolute;
+  top: 553px;
+}
+
+.start-yout-application .overlap-group-1 {
+  height: 46px;
+  margin-bottom: 11.0px;
+  position: relative;
+  width: 620px;
+}
+
+.start-yout-application .text-1 {
+  height: 46px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 0;
+  width: 620px;
+}
+
+.start-yout-application .are-you-a-rental-or {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  width: 620px;
+}
+
+.start-yout-application .buttons-primary-righ {
+  align-items: flex-start;
+  background-color: var(--green);
+  border-radius: 4px;
+  display: flex;
+  height: 56px;
+  margin-top: 1.0px;
+  overflow: hidden;
+  padding: 17px 16px;
+  width: 220px;
+}
+
+.start-yout-application .content-7 {
+  align-items: flex-end;
+  display: flex;
+  height: 21px;
+  overflow: hidden;
+  padding: 0 15px;
+  width: 188px;
+}
+
+.start-yout-application .label-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1px;
+  margin-left: 1px;
+  min-height: 22px;
+  min-width: 157px;
+  text-align: center;
+}
+
+.start-yout-application .group-123 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 49px;
+  left: 150px;
+  min-width: 166px;
+  position: absolute;
+  top: 915px;
+}
+
+.start-yout-application .overlap-group2 {
+  align-items: center;
+  background-color: var(--green);
+  border-radius: 8px;
+  box-shadow: 0px 4px 20px #0000000a;
+  display: flex;
+  height: 49px;
+  min-width: 49px;
+  padding: 0 15px;
+}
+
+.start-yout-application .vector {
+  height: 15px;
+  width: 19px;
+}
+
+.start-yout-application .select-the-validity-2 {
+  color: var(--green);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-weight: 800;
+  height: 49px;
+  letter-spacing: 0.80px;
+  line-height: 24px;
+  width: 99px;
+}
+
+.start-yout-application .vector-1 {
+  height: 52px;
+  left: 172px;
+  position: absolute;
+  top: 978px;
+  width: 3px;
+}
+
+.start-yout-application .group-124 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 49px;
+  left: 150px;
+  min-width: 168px;
+  position: absolute;
+  top: 1045px;
+}
+
+.start-yout-application .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--new-car);
+  border-radius: 8px;
+  box-shadow: 0px 4px 20px #0000000a;
+  display: flex;
+  min-width: 49px;
+  padding: 0 8px;
+}
+
+.start-yout-application .select-the-validity {
+  height: 49px;
+  letter-spacing: 0;
+  line-height: 39px;
+  text-align: center;
+  width: 33px;
+}
+
+.start-yout-application .vector-7 {
+  height: 52px;
+  left: 172px;
+  position: absolute;
+  top: 1108px;
+  width: 3px;
+}
+
+.start-yout-application .group-125 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 49px;
+  left: 150px;
+  min-width: 226px;
+  position: absolute;
+  top: 1175px;
+}
+
+.start-yout-application .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 4px 20px #0000000a;
+  display: flex;
+  min-width: 49px;
+  padding: 0 8px;
+}
+
+.start-yout-application .select-the-validity-3 {
+  height: 49px;
+  letter-spacing: 0.80px;
+  line-height: 24px;
+  width: 157px;
+}
+
+.start-yout-application .vector-8 {
+  height: 52px;
+  left: 172px;
+  position: absolute;
+  top: 1238px;
+  width: 3px;
+}
+
+.start-yout-application .group-126 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 49px;
+  left: 150px;
+  min-width: 168px;
+  position: absolute;
+  top: 1305px;
+}
+
+.start-yout-application .group-127 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 367px;
+  min-height: 127px;
+  position: absolute;
+  top: 740px;
+  width: 711px;
+}
+
+.start-yout-application .travel-with-ease {
+  letter-spacing: 0;
+  line-height: 55px;
+  margin-right: 4.0px;
+  min-height: 63px;
+  text-align: center;
+  white-space: nowrap;
+  width: 417px;
+}
+
+.start-yout-application .select-the-validity-4 {
+  letter-spacing: 0;
+  line-height: 39px;
+  margin-right: 4.0px;
+  min-height: 40px;
+  text-align: center;
+  white-space: nowrap;
+  width: 707px;
+}
+
+.start-yout-application .ellipse-20 {
+  left: 939px;
+  top: 1073px;
+}
+
+.start-yout-application .ellipse-18 {
+  left: 508px;
+  top: 1129px;
+}
+
+.start-yout-application .ellipse-21 {
+  left: 939px;
+  top: 1129px;
+}
+
+.start-yout-application .ellipse-19 {
+  left: 508px;
+  top: 1185px;
+}
+
+.start-yout-application .divplaceholder {
+  align-items: center;
+  display: flex;
+  left: 548px;
+  padding: 0px 239px 0px 0px;
+  position: absolute;
+  top: 1076px;
+  width: fit-content;
+}
+
+.start-yout-application .motorcycle {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.start-yout-application .divplaceholder-1 {
+  left: 979px;
+  top: 1076px;
+}
+
+.start-yout-application .vehicle-over-7700-pounds-3500-kg {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.start-yout-application .divplaceholder-2 {
+  left: 548px;
+  top: 1132px;
+}
+
+.start-yout-application .passenger-car {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.start-yout-application .divplaceholder-3 {
+  left: 979px;
+  top: 1132px;
+}
+
+.start-yout-application .vehicle-of-b-c-or-d {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.start-yout-application .divplaceholder-4 {
+  left: 548px;
+  top: 1188px;
+}
+
+.start-yout-application .vehicle-over-8-seats {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.start-yout-application .input {
+  align-items: center;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--cararra);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 155px;
+  justify-content: center;
+  left: 979px;
+  padding: 16px 24px 24px;
+  position: absolute;
+  top: 1289px;
+  width: fit-content;
+}
+
+.start-yout-application .group-129 {
+  height: 72px;
+  margin-top: -2.50px;
+  min-width: 73px;
+  position: relative;
+}
+
+.start-yout-application .frame-129 {
+  align-items: flex-end;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 73px;
+  padding: 11px 12px;
+}
+
+.start-yout-application .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--cararra);
+  border-radius: 24px;
+  display: flex;
+  height: 48px;
+  min-width: 48px;
+  padding: 13.5px 14px;
+}
+
+.start-yout-application .vector-2 {
+  height: 20px;
+  width: 20px;
+}
+
+.start-yout-application .drop-your-files-here-or-browse {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.start-yout-application .span0 {
+  color: var(--licorice);
+}
+
+.start-yout-application .span1 {
+  color: #265cdc;
+  text-decoration: underline;
+}
+
+.start-yout-application .max-file-size-16-mb-max-files-1 {
+  color: #414042;
+  font-family: var(--font-family-inter);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.50px;
+  position: relative;
+  width: fit-content;
+}
+
+.start-yout-application .input-1 {
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--cararra);
+  border-radius: 8px;
+  height: 155px;
+  left: 492px;
+  position: absolute;
+  top: 1557px;
+  width: 798px;
+}
+
+.start-yout-application .please-sing-using-yo {
+  color: var(--chicago);
+  font-family: var(--font-family-avenir_next-regular);
+  font-size: 12px;
+  font-weight: 400;
+  height: 16px;
+  left: 492px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1517px;
+}
+
+.start-yout-application .select-all-that-applies {
+  color: var(--licorice);
+  font-family: var(--font-family-avenir_next-regular);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  height: 26px;
+  left: 493px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1023px;
+  width: 152px;
+}
+
+.start-yout-application .image-3 {
+  height: 89px;
+  left: 627px;
+  position: absolute;
+  top: 1380px;
+  width: 224px;
+}
+
+.start-yout-application .image-4 {
+  height: 137px;
+  left: 628px;
+  position: absolute;
+  top: 1265px;
+  width: 194px;
+}
+
+.start-yout-application .frame-130 {
+  background-image: url(../img/image-5-1@2x.png);
+  background-size: 100% 100%;
+  border-radius: 8px;
+  box-shadow: 0px 4px 20px #0000001a;
+  height: 138px;
+  left: 488px;
+  position: absolute;
+  top: 1296px;
+  width: 138px;
+}
+
+.start-yout-application .license-classes {
+  height: 24px;
+  left: 493px;
+  letter-spacing: 0.80px;
+  line-height: 24px;
+  position: absolute;
+  top: 983px;
+  white-space: nowrap;
+}
+
+.start-yout-application .upload-your-selfie-or-passport-photo {
+  height: 24px;
+  left: 493px;
+  letter-spacing: 0.80px;
+  line-height: 24px;
+  position: absolute;
+  top: 1241px;
+  white-space: nowrap;
+}
+
+.start-yout-application .e-signature {
+  height: 24px;
+  left: 493px;
+  letter-spacing: 0.80px;
+  line-height: 24px;
+  position: absolute;
+  top: 1477px;
+  white-space: nowrap;
+}
+
+.start-yout-application .item {
+  align-items: flex-end;
+  display: flex;
+  gap: 1346px;
+  height: 28px;
+  left: 492px;
+  overflow: hidden;
+  position: absolute;
+  top: 915px;
+  width: 1080px;
+}
+
+.start-yout-application .path {
+  height: 9px;
+  margin-bottom: -2568.32px;
+  margin-left: -1360px;
+  width: 15px;
+}
+
+.start-yout-application .text-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 28px;
+  min-width: 132px;
+  white-space: nowrap;
+}
+
+.start-yout-application .divplaceholder-5 {
+  align-items: center;
+  display: flex;
+  padding: 0px 239px 0px 0px;
+  position: absolute;
+  width: fit-content;
+}
+
+.start-yout-application .ellipse {
+  background-color: var(--alto-2);
+  border-radius: 12px;
+  height: 24px;
+  position: absolute;
+  width: 24px;
+}

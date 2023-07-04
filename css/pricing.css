@@ -1,0 +1,1130 @@
+/* screen - pricing */
+
+.pricing {
+  align-items: flex-start;
+  background-color: var(--black-haze);
+  border: 0px none;
+  display: flex;
+  height: 3453px;
+  justify-content: center;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.pricing .overlap-group10 {
+  height: 5308px;
+  margin-top: -80px;
+  position: relative;
+  width: 1442px;
+}
+
+.pricing .overlap-group11 {
+  height: 3533px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1442px;
+}
+
+.pricing .group-container {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-14.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 2959px;
+  justify-content: flex-end;
+  left: 1px;
+  min-width: 1440px;
+  padding: 704px 147px;
+  position: absolute;
+  top: 574px;
+}
+
+.pricing .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--new-car);
+  border-radius: 54px;
+  display: flex;
+  height: 108px;
+  min-width: 108px;
+  padding: 27.5px 28.5px;
+}
+
+.pricing .number {
+  margin-left: 0.22px;
+  min-width: 84px;
+}
+
+.pricing .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--new-car);
+  border-radius: 54px;
+  display: flex;
+  height: 108px;
+  min-width: 108px;
+  padding: 28.1px 27.8px;
+}
+
+.pricing .number-1 {
+  min-width: 125px;
+}
+
+.pricing .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--new-car);
+  border-radius: 54px;
+  display: flex;
+  height: 108px;
+  min-width: 108px;
+  padding: 28.6px 28.5px;
+}
+
+.pricing .footer {
+  align-items: flex-end;
+  background-color: transparent;
+  background-image: url(../img/base-3.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: row;
+  height: 592px;
+  justify-content: flex-start;
+  left: 1px;
+  mix-blend-mode: normal;
+  padding: 250px 508px;
+  position: absolute;
+  top: 2941px;
+  width: 1440px;
+}
+
+.pricing .rectangle {
+  height: 401px;
+  left: 1px;
+  position: absolute;
+  top: 1452px;
+  width: 1440px;
+}
+
+.pricing .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 57px;
+  left: 149px;
+  position: absolute;
+  top: 1524px;
+  width: fit-content;
+}
+
+.pricing .group-11 {
+  height: 169px;
+  min-width: 347px;
+  position: relative;
+}
+
+.pricing .flex-col {
+  flex-direction: column;
+  min-height: 169px;
+  width: 343px;
+}
+
+.pricing .text {
+  height: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.pricing .heading-2 {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 26px;
+  font-weight: 700;
+  height: 30px;
+  letter-spacing: 0.10px;
+  line-height: 33px;
+  margin-bottom: -3px;
+  margin-top: 18px;
+  white-space: nowrap;
+}
+
+.pricing .apply-for-your-inter {
+  height: 46px;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: 31px;
+  width: 354px;
+}
+
+.pricing .make-sure-to-upload {
+  height: 46px;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: 31px;
+  width: 333px;
+}
+
+.pricing .group-114 {
+  height: 169px;
+  margin-right: -4.00px;
+  min-width: 347px;
+  position: relative;
+}
+
+.pricing .heading-2-get-approved {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 25px;
+  font-weight: 700;
+  height: 30px;
+  letter-spacing: 0.10px;
+  line-height: 33px;
+  margin-bottom: -3px;
+  margin-top: 18px;
+  white-space: nowrap;
+}
+
+.pricing .everyone-receives-in {
+  height: 46px;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: 31px;
+  width: 364px;
+}
+
+.pricing .rectangle-1 {
+  background-color: var(--black-haze);
+  height: 568px;
+  left: 0;
+  position: absolute;
+  top: 885px;
+  width: 1442px;
+}
+
+.pricing .base {
+  height: 640px;
+  left: 1px;
+  position: absolute;
+  top: 80px;
+  width: 1440px;
+}
+
+.pricing .car-for-rent-in-your {
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 80px;
+  position: absolute;
+  top: 228px;
+  width: 622px;
+}
+
+.pricing .text-1 {
+  height: 46px;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 407px;
+  width: 582px;
+}
+
+.pricing .dot {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 12px;
+  left: 840px;
+  min-width: 68px;
+  position: absolute;
+  top: 1350px;
+}
+
+.pricing .oval-1 {
+  background-color: var(--green);
+}
+
+.pricing .oval {
+  background-color: var(--alto);
+}
+
+.pricing .they-trusted-us-now-its-your-turn {
+  height: 116px;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 57.6px;
+  position: absolute;
+  top: 969px;
+  width: 429px;
+}
+
+.pricing .div-mui-paper-root {
+  align-items: flex-start;
+  background-color: var(--gray-nurse);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  height: 354px;
+  left: 840px;
+  overflow: hidden;
+  padding: 32px;
+  position: absolute;
+  top: 969px;
+  width: 515px;
+}
+
+.pricing .img-5-stars {
+  height: 23px;
+  width: 114px;
+}
+
+.pricing .very-easy-to-comple {
+  height: 179px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 30px;
+  width: 438px;
+}
+
+.pricing .amina {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 32px;
+  min-width: 52px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pricing .div-mui-box-root {
+  align-items: center;
+  display: flex;
+  gap: 12.02px;
+  left: 151px;
+  padding: 16px 148.69px 16px 0px;
+  position: absolute;
+  top: 1108px;
+  width: fit-content;
+}
+
+.pricing .heading-2-1 {
+  align-items: center;
+  display: flex;
+  gap: 4.09px;
+  position: relative;
+  width: fit-content;
+  z-index: 0;
+}
+
+.pricing .trustpilot {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pricing .testimonials-1-1png {
+  height: 66px;
+  left: 151px;
+  position: absolute;
+  top: 1212px;
+  width: 350px;
+}
+
+.pricing .group-92 {
+  align-items: flex-start;
+  display: flex;
+  height: 33px;
+  left: 1322px;
+  min-width: 32px;
+  position: absolute;
+  top: 1339px;
+}
+
+.pricing .overlap-group-3 {
+  border-radius: 16.07px/16.5px;
+  height: 33px;
+  position: relative;
+  width: 32px;
+}
+
+.pricing .vector {
+  left: 12px;
+  position: absolute;
+  top: 10px;
+}
+
+.pricing .group-100 {
+  align-items: flex-start;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 1265px;
+  min-width: 32px;
+  position: absolute;
+  top: 1339px;
+  transform: rotate(-180.00deg);
+}
+
+.pricing .vector-1 {
+  transform: rotate(180.00deg);
+}
+
+.pricing .separator {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--outer-space-2);
+  height: 1px;
+  left: 65px;
+  position: absolute;
+  top: 3411px;
+  width: 1285px;
+}
+
+.pricing .privacy-policy {
+  left: 884px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 3449px;
+  white-space: nowrap;
+  width: 175px;
+}
+
+.pricing .terms-y-conditions {
+  left: 1103px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 3449px;
+  white-space: nowrap;
+  width: 245px;
+}
+
+.pricing .image-10 {
+  height: 82px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 3084px;
+  width: 379px;
+}
+
+.pricing .p {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 6px;
+  min-height: 38px;
+  top: 3205px;
+  width: 210px;
+}
+
+.pricing .flex-row {
+  gap: 7px;
+  margin-top: 2px;
+  min-width: 360px;
+}
+
+.pricing .text-7 {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+  width: 12px;
+}
+
+.pricing .p-1 {
+  align-items: center;
+  gap: 12px;
+  height: 19px;
+  min-width: 325px;
+  top: 3262px;
+}
+
+.pricing .text-8 {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 1.0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.pricing .strong-select-language {
+  height: 14px;
+  left: 65px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 3302px;
+  white-space: nowrap;
+  width: 227px;
+}
+
+.pricing .divswitcher {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  left: 65px;
+  position: absolute;
+  top: 3338px;
+  width: 173px;
+}
+
+.pricing .link {
+  border: 1px solid;
+  border-color: var(--celeste);
+  height: 32px;
+  min-width: 173px;
+  position: relative;
+}
+
+.pricing .we-process-applicati {
+  height: 74px;
+  left: 509px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 3097px;
+  width: 274px;
+}
+
+.pricing .start-your-application {
+  height: 19px;
+  left: 509px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-decoration: underline;
+  top: 3307px;
+  white-space: nowrap;
+  width: 242px;
+}
+
+.pricing .text-9 {
+  height: 13px;
+  left: 751px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 3311px;
+  white-space: nowrap;
+  width: 11px;
+}
+
+.pricing .heading-2-quick-links {
+  height: 18px;
+  left: 851px;
+  letter-spacing: 0.10px;
+  line-height: 26px;
+  position: absolute;
+  top: 3100px;
+  white-space: nowrap;
+  width: 282px;
+}
+
+.pricing .list {
+  left: 851px;
+  min-height: 134px;
+  width: 212px;
+}
+
+.pricing .heading-2-resources {
+  height: 18px;
+  left: 1145px;
+  letter-spacing: 0.10px;
+  line-height: 26px;
+  position: absolute;
+  top: 3100px;
+  white-space: nowrap;
+  width: 203px;
+}
+
+.pricing .list-1 {
+  left: 1145px;
+  min-height: 80px;
+  width: 206px;
+}
+
+.pricing .copyright-2020-idl {
+  height: 13px;
+  left: 65px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 3459px;
+  white-space: nowrap;
+  width: 460px;
+}
+
+.pricing .navbar {
+  background-color: var(--black-haze);
+  height: 148px;
+  left: 151px;
+  position: absolute;
+  top: 0;
+  width: 1140px;
+}
+
+.pricing .group-106 {
+  align-items: center;
+  background-color: var(--new-car);
+  border-radius: 4px;
+  display: flex;
+  height: 40px;
+  left: 1100px;
+  min-width: 167px;
+  padding: 0 10px;
+  position: absolute;
+  top: 94px;
+}
+
+.pricing .content-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  justify-content: center;
+  overflow: hidden;
+  width: 147px;
+}
+
+.pricing .label-1 {
+  line-height: 20px;
+  min-width: 149px;
+  white-space: nowrap;
+}
+
+.pricing .link-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 32px;
+  left: 398px;
+  position: absolute;
+  top: 100px;
+  width: fit-content;
+}
+
+.pricing .menu {
+  min-width: 44px;
+}
+
+.pricing .link-2 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 44px;
+}
+
+.pricing .content-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  overflow: hidden;
+  width: 44px;
+}
+
+.pricing .reservation {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.pricing .menu-1 {
+  min-width: 55px;
+}
+
+.pricing .link-3 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 55px;
+}
+
+.pricing .content-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  overflow: hidden;
+  width: 55px;
+}
+
+.pricing .offers {
+  letter-spacing: 0;
+  line-height: 28px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.pricing .menu-2 {
+  min-width: 120px;
+}
+
+.pricing .link-4 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 120px;
+}
+
+.pricing .content-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  width: 120px;
+}
+
+.pricing .location {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.pricing .menu-3 {
+  min-width: 30px;
+}
+
+.pricing .link-5 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 30px;
+}
+
+.pricing .content-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  overflow: hidden;
+  width: 30px;
+}
+
+.pricing .cars-services {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.pricing .menu-4 {
+  min-width: 85px;
+}
+
+.pricing .link-6 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 85px;
+}
+
+.pricing .content-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  width: 85px;
+}
+
+.pricing .menu-5 {
+  min-width: 157px;
+}
+
+.pricing .link-7 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 157px;
+}
+
+.pricing .content-7 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  overflow: hidden;
+  width: 157px;
+}
+
+.pricing .link-logo {
+  height: 38px;
+  left: 167px;
+  object-fit: cover;
+  position: absolute;
+  top: 95px;
+  width: 182px;
+}
+
+.pricing .buttons-primary-righ {
+  align-items: flex-start;
+  background-color: var(--new-car);
+  border-radius: 4px;
+  display: flex;
+  height: 56px;
+  left: 151px;
+  overflow: hidden;
+  padding: 17px 16px;
+  position: absolute;
+  top: 1316px;
+  width: 220px;
+}
+
+.pricing .content {
+  align-items: flex-end;
+  display: flex;
+  height: 21px;
+  justify-content: center;
+  overflow: hidden;
+  width: 188px;
+}
+
+.pricing .label {
+  line-height: normal;
+  margin-bottom: -1px;
+  min-height: 22px;
+  min-width: 192px;
+}
+
+.pricing .buttons-primary-righ-1 {
+  background-color: var(--new-car);
+  left: 611px;
+  position: absolute;
+  top: 1725px;
+}
+
+.pricing .flexible-schedule {
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 200px;
+  white-space: nowrap;
+  width: 484px;
+}
+
+.pricing .group-108 {
+  align-items: center;
+  display: flex;
+  gap: 29px;
+  height: 337px;
+  left: 151px;
+  min-width: 1151px;
+  position: absolute;
+  top: 477px;
+}
+
+.pricing .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-15.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 6.0px;
+  min-height: 283px;
+  padding: 24px 21px;
+  width: 263px;
+}
+
+.pricing .corporate-rental {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1px;
+  min-height: 63px;
+  width: 216px;
+}
+
+.pricing .this-section-sometim {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 1px;
+  margin-top: 1px;
+  min-height: 44px;
+  width: 216px;
+}
+
+.pricing .corporate-rental-2 {
+  margin-right: 1px;
+  margin-top: 10px;
+  min-height: 36px;
+  white-space: nowrap;
+  width: 216px;
+}
+
+.pricing .overlap-group-1 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: var(--new-car);
+  border-radius: 4px;
+  display: flex;
+  height: 56px;
+  margin-top: 23px;
+  min-width: 220px;
+  padding: 17px 16px;
+}
+
+.pricing .corporate-rental-3 {
+  margin-right: 1px;
+  min-height: 31px;
+  width: 216px;
+}
+
+.pricing .this-section-sometim-1 {
+  margin-top: 33px;
+}
+
+.pricing .corporate-rental-1 {
+  margin-right: 1px;
+  margin-top: 32px;
+  min-height: 36px;
+  white-space: nowrap;
+  width: 216px;
+}
+
+.pricing .content-8 {
+  align-items: flex-end;
+  display: flex;
+  height: 21px;
+  overflow: hidden;
+  width: 188px;
+}
+
+.pricing .label-2 {
+  line-height: normal;
+  margin-bottom: -1px;
+  min-height: 22px;
+  min-width: 188px;
+}
+
+.pricing .overlap-group-4 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-17.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 337px;
+  padding: 22px 21px;
+  width: 263px;
+}
+
+.pricing .overlap-group2-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 4px;
+  display: flex;
+  height: 37px;
+  margin-right: 1px;
+  min-width: 129px;
+  padding: 0 6px;
+}
+
+.pricing .corporate-rental-4 {
+  color: var(--onyx);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  height: 23px;
+  text-align: center;
+  width: 116px;
+}
+
+.pricing .corporate-rental-5 {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  margin-right: 1px;
+  margin-top: 21px;
+  min-height: 63px;
+  width: 216px;
+}
+
+.pricing .this-section-sometim-2 {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  margin-top: 1px;
+}
+
+.pricing .corporate-rental-6 {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 36px;
+  font-weight: 700;
+  margin-right: 1px;
+  margin-top: 32px;
+  min-height: 36px;
+  white-space: nowrap;
+  width: 216px;
+}
+
+.pricing .overlap-group1-1 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: var(--green);
+  border-radius: 4px;
+  display: flex;
+  height: 56px;
+  margin-top: 23px;
+  min-width: 220px;
+  padding: 17px 16px;
+}
+
+.pricing .this-section-sometim-3 {
+  margin-top: 1px;
+}
+
+.pricing .best-offer {
+  align-items: flex-end;
+  display: flex;
+  height: 665px;
+  justify-content: center;
+  left: 1px;
+  overflow: hidden;
+  position: absolute;
+  top: 1853px;
+  width: 1440px;
+}
+
+.pricing .overlap-group8 {
+  align-items: flex-start;
+  background-color: var(--black-haze);
+  display: flex;
+  gap: 365px;
+  height: 870px;
+  margin-bottom: -203.9px;
+  min-width: 1442px;
+  padding: 139px 151px;
+}
+
+.pricing .buttons-primary-righ-2 {
+  align-self: center;
+  background-color: var(--new-car);
+  margin-top: 90.1px;
+}
+
+.pricing .image-here {
+  height: 370px;
+  width: 555px;
+}
+
+.pricing .why-do-you-need-it {
+  height: 56px;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 56px;
+  position: absolute;
+  top: 1991px;
+  white-space: nowrap;
+}
+
+.pricing .overlap-group9 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px -4px 20px #0000000a , 0px 28px 32px #00000014;
+  display: flex;
+  gap: 151px;
+  height: 107px;
+  left: 151px;
+  min-width: 1140px;
+  padding: 25px 51px;
+  position: absolute;
+  top: 2474px;
+}
+
+.pricing .are-you-a-rental-or {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 3.0px;
+  min-height: 32px;
+  width: 620px;
+}
+
+.pricing .buttons-primary-righ-3 {
+  align-self: flex-end;
+  background-color: var(--green);
+}
+
+.pricing .content-9 {
+  align-items: flex-end;
+  display: flex;
+  height: 21px;
+  overflow: hidden;
+  padding: 0 15px;
+  width: 188px;
+}
+
+.pricing .label-3 {
+  line-height: normal;
+  margin-bottom: -1px;
+  margin-left: 1px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.pricing .the-digitally-signed {
+  height: 192px;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 2071px;
+  width: 474px;
+}
+
+.pricing .buttons-primary-righ-4 {
+  align-items: flex-start;
+  border-radius: 4px;
+  display: flex;
+  height: 56px;
+  overflow: hidden;
+  padding: 17px 16px;
+  width: 220px;
+}
+
+.pricing .corporate-rental-7 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pricing .label-4 {
+  letter-spacing: 0;
+  text-align: center;
+}
+
+.pricing .list-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: absolute;
+  top: 3129px;
+}
+
+.pricing .number-2 {
+  height: 72px;
+  letter-spacing: 0;
+  line-height: 72px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.pricing .oval-2 {
+  border-radius: 6px;
+  height: 12px;
+  width: 12px;
+}
+
+.pricing .p-2 {
+  display: flex;
+  left: 65px;
+  position: absolute;
+}
+
+.pricing .this-section-sometim-4 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -2px;
+  margin-right: 1px;
+  min-height: 22px;
+  white-space: nowrap;
+  width: 216px;
+}
+
+.pricing .vector-2 {
+  height: 14px;
+  width: 9px;
+}

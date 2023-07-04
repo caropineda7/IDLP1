@@ -1,0 +1,567 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Poppins:500,700,600,400|Inter:700,600,800,500,400|Roboto:400,600,800,500,700|Be+Vietnam+Pro:500,400,700,600");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/64a1c7c5ccafee3f97736f46.64a1c7c64a1cc7a126a527f4.RbSjMZX.hcp.png");
+
+@font-face {
+  font-family: "Font Awesome 5 Free-Solid";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Font Awesome 5 Free-Solid-900.otf") format("opentype");
+}
+@font-face {
+  font-family: "Arial-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/FontsFree-Net-arial-bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Avenir Next-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Metropolis-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "Avenir Next-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/26301410506.ttf") format("truetype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.next {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.address {
+  left: 70px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.price {
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 55px;
+  position: absolute;
+  text-align: center;
+  top: 61px;
+  white-space: nowrap;
+  width: 175px;
+}
+
+.x1-year-1 {
+  left: 70px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.x1-year {
+  left: 67px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.img-45-stars {
+  height: 22.84px;
+  min-width: 114.2px;
+  position: relative;
+  z-index: 1;
+}
+
+.x45-star-reviews-from-our-clients-on {
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.trustpilot-1 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.ellipse-31 {
+  background-color: var(--new-car);
+  border-radius: 16.07px/16.5px;
+  box-shadow: 0px 3px 3px #00000029;
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.group-92-1 {
+  align-items: flex-start;
+  background-color: var(--new-car);
+  border-radius: 16.07px/16.5px;
+  box-shadow: 0px 3px 3px #00000029;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  margin-top: 0;
+  min-width: 32px;
+  padding: 9.5px 11.3px;
+}
+
+.fast-easy-process {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.div-mui-grid-root-1 {
+  justify-content: flex-end;
+  min-width: 184px;
+}
+
+.instant-approval {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.recognized-in-over-186-countries {
+  height: 25px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.group-105 {
+  align-items: flex-end;
+  display: flex;
+  gap: 32px;
+  min-width: 291px;
+}
+
+.group-70 {
+  height: 53px;
+  width: 51px;
+}
+
+.flex-col-1 {
+  width: 147px;
+}
+
+.translations {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  min-width: 147px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.group-104 {
+  align-items: flex-end;
+  display: flex;
+  gap: 33px;
+  margin-left: 108px;
+  min-width: 270px;
+}
+
+.group-71 {
+  height: 52px;
+  width: 52px;
+}
+
+.flex-col-2 {
+  width: 125px;
+}
+
+.countries {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-left: 0.33px;
+  min-width: 116px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.group-103 {
+  align-items: flex-end;
+  display: flex;
+  gap: 32px;
+  margin-left: 107px;
+  min-width: 367px;
+}
+
+.group-74 {
+  height: 50px;
+  width: 50px;
+}
+
+.flex-col-3 {
+  width: 223px;
+}
+
+.x108-k {
+  height: 72px;
+  letter-spacing: 0;
+  line-height: 72px;
+  margin-left: 0.28px;
+  min-width: 171px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.documents-issued {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  min-width: 223px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.flexible-schedule-1 {
+  left: 152px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 200px;
+  white-space: nowrap;
+  width: 484px;
+}
+
+.frame-90 {
+  gap: 40px;
+  left: 517px;
+  position: absolute;
+  top: 5823px;
+}
+
+.frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.first-name {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.in-which-country-are-you-living {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.image {
+  height: 16px;
+  margin-right: -5.00px;
+  min-width: 16px;
+  position: relative;
+}
+
+.frame-89 {
+  gap: 40px;
+  position: relative;
+}
+
+.we-will-contact-you {
+  color: var(--chicago);
+  font-family: var(--font-family-inter);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.personal-info {
+  height: 24px;
+  left: 518px;
+  letter-spacing: 0.80px;
+  line-height: 24px;
+  position: absolute;
+  top: 5783px;
+  white-space: nowrap;
+}
+
+.select-the-validity-1 {
+  height: 49px;
+  letter-spacing: 0.80px;
+  line-height: 24px;
+  width: 99px;
+}
+
+.vector-1-1 {
+  height: 52px;
+  left: 132px;
+  position: absolute;
+  top: 5778px;
+  width: 3px;
+}
+
+.divplaceholder-6 {
+  align-items: flex-start;
+  position: relative;
+  width: fit-content;
+}
+
+.email-address {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.divplaceholder-7 {
+  align-items: center;
+  margin-right: -37.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.divplaceholder-8 {
+  align-items: center;
+  margin-right: -94.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.apply-today-and-rece {
+  height: 88px;
+  letter-spacing: 0;
+  line-height: 24px;
+  width: 249px;
+}
+
+.accepted-delivery-worldwide {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.in-over-186-international-countries {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -6px;
+  white-space: nowrap;
+}
+
+.link-orderidlporg {
+  align-self: flex-end;
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -1px;
+  white-space: nowrap;
+  width: 314px;
+}
+
+.strong {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(239, 239, 239) 0%, rgb(255, 255, 255) 70%);
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+
+.enpng {
+  height: 24px;
+  left: 6px;
+  position: absolute;
+  top: 4px;
+  width: 24px;
+}
+
+.language {
+  height: 17px;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.pseudo {
+  height: 24px;
+  left: 148px;
+  position: absolute;
+  top: 4px;
+  width: 15px;
+}
+
+.item-link-faq {
+  margin-top: 7px;
+}
+
+.item-link-about-us {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.item-link-what-is-an-idl {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.item-link-why-do-i-need-an-idl {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -6px;
+  white-space: nowrap;
+}
+
+.item-link-agent-area {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: -0.5px;
+  margin-top: 7px;
+  white-space: nowrap;
+}
+
+.item-link-contact-us {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: -0.5px;
+  white-space: nowrap;
+}
+
+.item-link-supported-countries {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -6px;
+  margin-left: -0.5px;
+  white-space: nowrap;
+}
+
+.cars-services-3 {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  margin-bottom: 1px;
+  min-height: 101px;
+}
+
+.frame-1 {
+  align-items: flex-start;
+  display: flex;
+  width: fit-content;
+}
+
+.item-link {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.menu-6 {
+  height: 28px;
+  position: relative;
+}
+
+.x2499-3 {
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 55px;
+  position: absolute;
+  text-align: center;
+  top: 61px;
+  white-space: nowrap;
+  width: 175px;
+}

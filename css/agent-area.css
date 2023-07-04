@@ -1,0 +1,1624 @@
+/* screen - agent-area */
+
+.agent-area {
+  align-items: flex-start;
+  background-color: var(--black-haze);
+  border: 0px none;
+  display: flex;
+  flex-direction: column;
+  gap: 104px;
+  height: 7094px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.agent-area .overlap-group6 {
+  height: 6478px;
+  margin-left: -2px;
+  margin-top: -80px;
+  position: relative;
+  width: 1597px;
+}
+
+.agent-area .member {
+  height: 5904px;
+  left: 0;
+  position: absolute;
+  top: 574px;
+  width: 1450px;
+}
+
+.agent-area .overlap-group2 {
+  height: 4886px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.agent-area .rectangle-1 {
+  height: 4796px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.agent-area .rectangle-2 {
+  height: 558px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4328px;
+  width: 1440px;
+}
+
+.agent-area .rectangle-3 {
+  height: 558px;
+  left: 0;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 4328px;
+  width: 1440px;
+}
+
+.agent-area .base-3 {
+  height: 558px;
+  left: 0;
+  position: absolute;
+  top: 4328px;
+  width: 1440px;
+}
+
+.agent-area .drive {
+  height: 195px;
+  left: 370px;
+  letter-spacing: 0;
+  line-height: 56px;
+  position: absolute;
+  text-align: center;
+  top: 4433px;
+  width: 707px;
+}
+
+.agent-area .dont-miss-out-on-th {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  height: 50px;
+  left: 406px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 4635px;
+  width: 635px;
+}
+
+.agent-area .div-mui-paper-root {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 16px;
+  box-shadow: 0px 32px 48px #63636314 , 0px -4px 20px #0000000a;
+  display: flex;
+  flex-direction: column;
+  height: 303px;
+  left: 150px;
+  overflow: hidden;
+  padding: 32px;
+  position: absolute;
+  top: 1150px;
+  width: 551px;
+}
+
+.agent-area .div-mui-grid-root {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  padding: 0px 323px 0px 0px;
+  position: relative;
+  width: 485px;
+}
+
+.agent-area .svg {
+  height: 48px;
+  min-width: 48px;
+  position: relative;
+}
+
+.agent-area .one-time-fee-lifetime-benefits {
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-right: -299.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 461px;
+}
+
+.agent-area .p-mui-typography-root {
+  align-items: flex-start;
+  display: flex;
+  padding: 0px 16px 0px 0px;
+  position: relative;
+  width: 485px;
+}
+
+.agent-area .sign-up-for-the-prog {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 465px;
+}
+
+.agent-area .div-mui-paper-root-1 {
+  background-color: var(--white);
+  box-shadow: 0px 32px 48px #63636314 , 0px -4px 20px #0000000a;
+  height: 303px;
+  left: 737px;
+  top: 1150px;
+  width: 551px;
+}
+
+.agent-area .svg-1 {
+  height: 48px;
+  min-width: 48px;
+  position: relative;
+}
+
+.agent-area .additional-revenue-stream {
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-right: -299.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 461px;
+}
+
+.agent-area .as-an-agent-for-idlp {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 465px;
+}
+
+.agent-area .div-mui-paper-root-2 {
+  background-color: var(--white);
+  box-shadow: 0px 32px 48px #63636314 , 0px -4px 20px #0000000a;
+  height: 303px;
+  left: 150px;
+  top: 1485px;
+  width: 551px;
+}
+
+.agent-area .svg-2 {
+  height: 48px;
+  min-width: 48px;
+  position: relative;
+}
+
+.agent-area .expand-your-services {
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-right: -299.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 461px;
+}
+
+.agent-area .by-offering-an-inter {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 465px;
+}
+
+.agent-area .div-mui-paper-root-3 {
+  background-color: var(--white);
+  box-shadow: 0px 32px 48px #63636314 , 0px -4px 20px #0000000a;
+  height: 303px;
+  left: 737px;
+  top: 1485px;
+  width: 551px;
+}
+
+.agent-area .svg-3 {
+  height: 48px;
+  min-width: 48px;
+  position: relative;
+}
+
+.agent-area .trusted-brand {
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-right: -299.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 461px;
+}
+
+.agent-area .we-take-pride-in-bei {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 465px;
+}
+
+.agent-area .best-offer-this-mont {
+  left: 150px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1006px;
+  white-space: nowrap;
+  width: 1140px;
+}
+
+.agent-area .best-offer {
+  align-items: flex-end;
+  display: flex;
+  height: 709px;
+  justify-content: center;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 2880px;
+  width: 1440px;
+}
+
+.agent-area .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--black-haze);
+  display: flex;
+  gap: 14px;
+  height: 914px;
+  justify-content: flex-end;
+  margin-bottom: -204px;
+  min-width: 1442px;
+  padding: 138px 151px;
+}
+
+.agent-area .number1-trusted {
+  align-self: center;
+  height: 48px;
+  margin-top: 204.0px;
+  object-fit: cover;
+  width: 258px;
+}
+
+.agent-area .flex-col {
+  flex-direction: column;
+  gap: 37px;
+  min-height: 445px;
+  width: 570px;
+}
+
+.agent-area .overlap-group1 {
+  height: 358px;
+  position: relative;
+  width: 570px;
+}
+
+.agent-area .image-here {
+  height: 296px;
+  left: 108px;
+  position: absolute;
+  top: 0;
+  width: 462px;
+}
+
+.agent-area .booklet-1png {
+  height: 281px;
+  left: 0;
+  position: absolute;
+  top: 77px;
+  width: 528px;
+}
+
+.agent-area .trustpilot {
+  height: 50px;
+  margin-left: 14px;
+  object-fit: cover;
+  width: 258px;
+}
+
+.agent-area .agent-program-highlights {
+  height: 56px;
+  left: 150px;
+  letter-spacing: 0;
+  line-height: 56px;
+  position: absolute;
+  top: 3010px;
+  white-space: nowrap;
+  width: 568px;
+}
+
+.agent-area .link {
+  align-items: flex-start;
+  background-color: var(--new-car);
+  border-radius: 4px;
+  display: flex;
+  left: 667px;
+  padding: 16px 33.39px 16px 32px;
+  position: absolute;
+  top: 5840px;
+  width: fit-content;
+}
+
+.agent-area .the-idlp-agent-affil {
+  height: 192px;
+  left: 152px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 3089px;
+  width: 491px;
+}
+
+.agent-area .buttons-primary-righ {
+  align-items: flex-start;
+  background-color: var(--green);
+  border-radius: 4px;
+  display: flex;
+  height: 56px;
+  left: 616px;
+  overflow: hidden;
+  padding: 17px 16px;
+  position: absolute;
+  top: 5299px;
+  width: 220px;
+}
+
+.agent-area .content {
+  align-items: flex-end;
+  display: flex;
+  height: 21px;
+  overflow: hidden;
+  padding: 0 15px;
+  width: 188px;
+}
+
+.agent-area .label {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1px;
+  margin-left: 1px;
+  min-height: 22px;
+  min-width: 157px;
+  text-align: center;
+}
+
+.agent-area .forms-input-left-icon-large-filled {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  height: 139px;
+  left: 152px;
+  overflow: hidden;
+  position: absolute;
+  top: 4333px;
+  width: 1137px;
+}
+
+.agent-area .overlap-group-2 {
+  border-radius: 8px;
+  height: 139px;
+  position: relative;
+  width: 1137px;
+}
+
+.agent-area .base {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 26px 40px #0000000b;
+  display: flex;
+  height: 139px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1137px;
+}
+
+.agent-area .base-1 {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 139px;
+  width: 1137px;
+}
+
+.agent-area .item {
+  align-items: center;
+  display: flex;
+  gap: 788px;
+  height: 28px;
+  left: 28px;
+  overflow: hidden;
+  padding: 0 1px;
+  position: absolute;
+  top: 25px;
+  width: 1080px;
+}
+
+.agent-area .text {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -2px;
+  min-height: 30px;
+  min-width: 270px;
+}
+
+.agent-area .path {
+  height: 9px;
+  margin-bottom: 0.68px;
+  width: 15px;
+}
+
+.agent-area .text-1 {
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 63px;
+  width: 1070px;
+}
+
+.agent-area .forms-input-left-icon-large-filled-1 {
+  top: 4504px;
+}
+
+.agent-area .overlap-group {
+  border-radius: 8px;
+  height: 139px;
+  margin-bottom: -58px;
+  position: relative;
+  width: 1137px;
+}
+
+.agent-area .forms-input-left-icon-large-filled-2 {
+  top: 4617px;
+}
+
+.agent-area .forms-input-left-icon-large-filled-3 {
+  top: 4730px;
+}
+
+.agent-area .rectangle-4 {
+  height: 360px;
+  left: 2px;
+  position: absolute;
+  top: 3094px;
+  width: 1440px;
+}
+
+.agent-area .best-offer-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 760px;
+  justify-content: center;
+  left: 2px;
+  overflow: hidden;
+  position: absolute;
+  top: 720px;
+  width: 1440px;
+}
+
+.agent-area .overlap-group3 {
+  align-items: flex-end;
+  background-color: var(--black-haze);
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  margin-bottom: -108.9px;
+  min-height: 870px;
+  padding: 94px 111px;
+  width: 1442px;
+}
+
+.agent-area .best-offer-this-mont-1 {
+  align-self: center;
+  color: var(--outer-space);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  min-height: 56px;
+  width: 1140px;
+}
+
+.agent-area .overlap-group2-1 {
+  height: 480px;
+  position: relative;
+  width: 1180px;
+}
+
+.agent-area .group-128 {
+  align-items: flex-start;
+  gap: 28px;
+  height: 368px;
+  left: 0;
+  min-width: 1138px;
+  top: 0;
+}
+
+.agent-area .overlap-group1-1 {
+  align-self: flex-end;
+  height: 434px;
+  margin-bottom: -66px;
+  margin-left: -40px;
+  position: relative;
+  width: 790px;
+}
+
+.agent-area .overlap-group-3 {
+  background-image: url(../img/rectangle-23.svg);
+  background-size: 100% 100%;
+  height: 242px;
+  left: 0;
+  position: absolute;
+  top: 192px;
+  width: 440px;
+}
+
+.agent-area .rectangle {
+  height: 162px;
+  left: 40px;
+  position: absolute;
+  top: 14px;
+  width: 360px;
+}
+
+.agent-area .corporate-rental {
+  left: 65px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+  width: 312px;
+}
+
+.agent-area .this-section-sometim {
+  left: 65px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 67px;
+  width: 312px;
+}
+
+.agent-area .image-here-1 {
+  left: 40px;
+  position: absolute;
+  top: 0;
+}
+
+.agent-area .image-here-2 {
+  left: 430px;
+  position: absolute;
+  top: 0;
+}
+
+.agent-area .overlap-group-4 {
+  background-image: url(../img/rectangle-25.svg);
+  background-size: 100% 100%;
+  height: 242px;
+  left: 350px;
+  position: absolute;
+  top: 192px;
+  width: 440px;
+}
+
+.agent-area .overlap-group-5 {
+  background-image: url(../img/rectangle-27.svg);
+  background-size: 100% 100%;
+  height: 242px;
+  left: 740px;
+  position: absolute;
+  top: 192px;
+  width: 440px;
+}
+
+.agent-area .buttons-primary-righ-1 {
+  left: 460px;
+  top: 424px;
+}
+
+.agent-area .rectangle-5 {
+  background-color: var(--black-haze);
+  height: 622px;
+  left: 1px;
+  position: absolute;
+  top: 2473px;
+  width: 1442px;
+}
+
+.agent-area .buttons-primary-righ-2 {
+  left: 152px;
+  top: 2921px;
+}
+
+.agent-area .they-trusted-us-now-its-your-turn {
+  height: 116px;
+  left: 152px;
+  letter-spacing: 0;
+  line-height: 57.6px;
+  position: absolute;
+  top: 2584px;
+  width: 429px;
+}
+
+.agent-area .div-mui-box-root {
+  align-items: center;
+  display: flex;
+  gap: 12.02px;
+  left: 152px;
+  padding: 16px 148.69px 16px 0px;
+  position: absolute;
+  top: 2723px;
+  width: fit-content;
+}
+
+.agent-area .heading-2 {
+  align-items: center;
+  display: flex;
+  gap: 4.09px;
+  position: relative;
+  width: fit-content;
+  z-index: 0;
+}
+
+.agent-area .testimonials-1-1png {
+  height: 66px;
+  left: 152px;
+  position: absolute;
+  top: 2827px;
+  width: 350px;
+}
+
+.agent-area .base-2 {
+  height: 640px;
+  left: 2px;
+  position: absolute;
+  top: 80px;
+  width: 1440px;
+}
+
+.agent-area .car-for-rent-in-your {
+  left: 152px;
+  letter-spacing: 0;
+  line-height: 80px;
+  position: absolute;
+  top: 228px;
+  width: 1046px;
+}
+
+.agent-area .text-2 {
+  height: 82px;
+  left: 152px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 412px;
+  width: 623px;
+}
+
+.agent-area .group-101 {
+  align-items: flex-start;
+  height: 27px;
+  left: 134px;
+  min-width: 1156px;
+  top: 3162px;
+}
+
+.agent-area .svg-4 {
+  height: 27px;
+  margin-bottom: -0.42px;
+  width: 27px;
+}
+
+.agent-area .selection-of-creativ {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -8px;
+  min-width: 199px;
+}
+
+.agent-area .div-mui-grid-root-2 {
+  margin-left: 204px;
+  padding: 0 0.1px;
+}
+
+.agent-area .svg-5 {
+  height: 27px;
+  margin-bottom: -0.42px;
+  width: 27px;
+}
+
+.agent-area .unique-affiliate-tracking-url {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -8px;
+  min-width: 135px;
+}
+
+.agent-area .div-mui-grid-root-3 {
+  margin-left: 250px;
+  padding: 0 0.1px;
+}
+
+.agent-area .svg-6 {
+  height: 27px;
+  margin-bottom: -0.42px;
+  width: 27px;
+}
+
+.agent-area .advances-real-time-statistics {
+  height: 50px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -9px;
+  min-width: 163px;
+}
+
+.agent-area .dot {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 12px;
+  left: 787px;
+  min-width: 68px;
+  position: absolute;
+  top: 2965px;
+}
+
+.agent-area .oval-1 {
+  background-color: var(--green);
+  border-radius: 6px;
+  height: 12px;
+  width: 12px;
+}
+
+.agent-area .oval {
+  background-color: var(--alto);
+  border-radius: 6px;
+  height: 12px;
+  width: 12px;
+}
+
+.agent-area .best-offer-this-mont-2 {
+  left: 444px;
+  position: absolute;
+  top: 4229px;
+  width: 556px;
+}
+
+.agent-area .div-mui-paper-root-4 {
+  background-color: var(--gray-nurse);
+  height: 354px;
+  left: 787px;
+  top: 2584px;
+  width: 503px;
+}
+
+.agent-area .img-5-stars {
+  height: 23px;
+  margin-left: 1px;
+  width: 114px;
+}
+
+.agent-area .very-easy-to-comple {
+  align-self: flex-end;
+  height: 179px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 30px;
+  width: 438px;
+}
+
+.agent-area .amina {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 1px;
+  margin-top: 32px;
+  min-width: 52px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.agent-area .group-92 {
+  align-items: flex-start;
+  height: 33px;
+  left: 1257px;
+  min-width: 32px;
+  top: 2954px;
+}
+
+.agent-area .overlap-group-6 {
+  border-radius: 16.07px/16.5px;
+  height: 33px;
+  position: relative;
+  width: 32px;
+}
+
+.agent-area .vector {
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 10px;
+  width: 9px;
+}
+
+.agent-area .group-100 {
+  align-items: flex-start;
+  height: 33px;
+  justify-content: flex-end;
+  left: 1200px;
+  min-width: 32px;
+  top: 2954px;
+  transform: rotate(-180.00deg);
+}
+
+.agent-area .vector-1 {
+  height: 14px;
+  transform: rotate(180.00deg);
+  width: 9px;
+}
+
+.agent-area .flexible-schedule {
+  left: 406px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 3287px;
+  white-space: nowrap;
+  width: 610px;
+}
+
+.agent-area .divowl-stage {
+  height: 114px;
+  left: 138px;
+  position: absolute;
+  top: 3315px;
+  width: 1190px;
+}
+
+.agent-area .navbar {
+  background-color: var(--black-haze);
+  height: 148px;
+  left: 152px;
+  position: absolute;
+  top: 0;
+  width: 1140px;
+}
+
+.agent-area .group-106 {
+  align-items: center;
+  background-color: var(--new-car);
+  border-radius: 4px;
+  height: 40px;
+  left: 1101px;
+  min-width: 167px;
+  padding: 0 10px;
+  top: 94px;
+}
+
+.agent-area .content-1 {
+  height: 20px;
+  padding: 0 54px;
+  width: 147px;
+}
+
+.agent-area .label-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 38px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.agent-area .link-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 32px;
+  left: 401px;
+  position: absolute;
+  top: 100px;
+  width: fit-content;
+}
+
+.agent-area .menu {
+  height: 28px;
+  min-width: 46px;
+  position: relative;
+}
+
+.agent-area .link-2 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 46px;
+}
+
+.agent-area .content-2 {
+  height: 28px;
+  width: 46px;
+}
+
+.agent-area .reservation {
+  letter-spacing: 0;
+  line-height: 28px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.agent-area .menu-1 {
+  min-width: 50px;
+}
+
+.agent-area .link-3 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 50px;
+}
+
+.agent-area .content-3 {
+  height: 28px;
+  overflow: hidden;
+  width: 50px;
+}
+
+.agent-area .offers {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.agent-area .menu-2 {
+  min-width: 120px;
+}
+
+.agent-area .link-4 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 120px;
+}
+
+.agent-area .content-4 {
+  height: 28px;
+  width: 120px;
+}
+
+.agent-area .location {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.agent-area .menu-3 {
+  min-width: 30px;
+}
+
+.agent-area .link-5 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 30px;
+}
+
+.agent-area .content-5 {
+  height: 28px;
+  overflow: hidden;
+  width: 30px;
+}
+
+.agent-area .cars-services {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.agent-area .menu-4 {
+  min-width: 85px;
+}
+
+.agent-area .link-6 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 85px;
+}
+
+.agent-area .content-6 {
+  height: 28px;
+  width: 85px;
+}
+
+.agent-area .menu-5 {
+  min-width: 157px;
+}
+
+.agent-area .link-7 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 157px;
+}
+
+.agent-area .content-7 {
+  height: 28px;
+  overflow: hidden;
+  width: 157px;
+}
+
+.agent-area .link-logo {
+  height: 38px;
+  left: 168px;
+  object-fit: cover;
+  position: absolute;
+  top: 95px;
+  width: 182px;
+}
+
+.agent-area .input {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--mercury);
+  border-radius: 8px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  width: 364px;
+}
+
+.agent-area .divplaceholder {
+  align-items: center;
+  display: flex;
+  padding: 0px 239px 0px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.agent-area .divplaceholder-1 {
+  align-items: center;
+  margin-right: -22.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.agent-area .divplaceholder-2 {
+  align-items: center;
+  margin-right: -28.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.agent-area .frame-92 {
+  gap: 40px;
+  left: 517px;
+  position: absolute;
+  top: 6307px;
+}
+
+.agent-area .divplaceholder-3 {
+  align-items: center;
+  margin-right: -83.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.agent-area .divplaceholder-4 {
+  align-items: center;
+  margin-right: -86.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.agent-area .divplaceholder-5 {
+  align-items: flex-start;
+  left: 518px;
+  position: absolute;
+  top: 5963px;
+  width: 343px;
+}
+
+.agent-area .billing-address {
+  height: 24px;
+  left: 518px;
+  letter-spacing: 0.80px;
+  line-height: 24px;
+  position: absolute;
+  top: 6002px;
+  white-space: nowrap;
+}
+
+.agent-area .account-info {
+  height: 24px;
+  left: 518px;
+  letter-spacing: 0.80px;
+  line-height: 24px;
+  position: absolute;
+  top: 6267px;
+  white-space: nowrap;
+}
+
+.agent-area .group-123 {
+  align-items: flex-start;
+  gap: 16px;
+  height: 49px;
+  left: 110px;
+  min-width: 168px;
+  top: 5715px;
+}
+
+.agent-area .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--new-car);
+  border-radius: 8px;
+  box-shadow: 0px 4px 20px #0000000a;
+  display: flex;
+  min-width: 49px;
+  padding: 0 8px;
+}
+
+.agent-area .select-the-validity {
+  height: 49px;
+  letter-spacing: 0;
+  line-height: 39px;
+  text-align: center;
+  width: 33px;
+}
+
+.agent-area .group-124 {
+  align-items: flex-start;
+  gap: 16px;
+  height: 49px;
+  left: 110px;
+  min-width: 190px;
+  top: 5845px;
+}
+
+.agent-area .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 4px 20px #0000000a;
+  display: flex;
+  min-width: 49px;
+  padding: 0 8px;
+}
+
+.agent-area .select-the-validity-2 {
+  height: 49px;
+  letter-spacing: 0.80px;
+  line-height: 24px;
+  width: 121px;
+}
+
+.agent-area .item-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 4692px;
+  height: 28px;
+  left: 517px;
+  overflow: hidden;
+  position: absolute;
+  top: 5715px;
+  width: 1080px;
+}
+
+.agent-area .path-1 {
+  height: 9px;
+  margin-left: -4706px;
+  margin-top: -2213px;
+  width: 15px;
+}
+
+.agent-area .text-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 28px;
+  white-space: nowrap;
+}
+
+.agent-area .frame-91 {
+  flex-direction: column;
+  gap: 24px;
+  left: 518px;
+  position: absolute;
+  top: 6042px;
+}
+
+.agent-area .input-1 {
+  align-items: flex-start;
+  width: 767px;
+}
+
+.agent-area .frame-89-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.agent-area .input-2 {
+  align-items: center;
+  gap: 8px;
+  width: 364px;
+}
+
+.agent-area .divplaceholder-9 {
+  align-items: center;
+  position: relative;
+  width: 313px;
+}
+
+.agent-area .group-127 {
+  align-items: center;
+  flex-direction: column;
+  gap: 24px;
+  left: 368px;
+  min-height: 127px;
+  top: 5540px;
+  width: 711px;
+}
+
+.agent-area .travel-with-ease {
+  letter-spacing: 0;
+  line-height: 55px;
+  margin-right: 4.0px;
+  min-height: 63px;
+  text-align: center;
+  white-space: nowrap;
+  width: 417px;
+}
+
+.agent-area .select-the-validity-3 {
+  color: var(--storm-dust);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 39px;
+  margin-right: 4.0px;
+  min-height: 40px;
+  text-align: center;
+  white-space: nowrap;
+  width: 707px;
+}
+
+.agent-area .buttons-primary-righ-3 {
+  left: 152px;
+  top: 522px;
+}
+
+.agent-area .buttons-primary-righ-4 {
+  left: 152px;
+  top: 3897px;
+}
+
+.agent-area .overlap-group7 {
+  height: 592px;
+  position: relative;
+  width: 1440px;
+}
+
+.agent-area .footer {
+  align-items: flex-end;
+  background-color: transparent;
+  background-image: url(../img/base-3.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: row;
+  height: 592px;
+  justify-content: flex-start;
+  left: 0;
+  mix-blend-mode: normal;
+  padding: 250px 508px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.agent-area .separator {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--outer-space-2);
+  height: 1px;
+  left: 64px;
+  position: absolute;
+  top: 470px;
+  width: 1285px;
+}
+
+.agent-area .privacy-policy {
+  left: 883px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 508px;
+  white-space: nowrap;
+  width: 175px;
+}
+
+.agent-area .terms-y-conditions {
+  left: 1102px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 508px;
+  white-space: nowrap;
+  width: 245px;
+}
+
+.agent-area .image-10 {
+  height: 82px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 143px;
+  width: 379px;
+}
+
+.agent-area .p {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 64px;
+  min-height: 38px;
+  position: absolute;
+  top: 264px;
+  width: 210px;
+}
+
+.agent-area .flex-row {
+  gap: 7px;
+  margin-top: 2px;
+  min-width: 360px;
+}
+
+.agent-area .text-10 {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+  width: 12px;
+}
+
+.agent-area .p-1 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  height: 19px;
+  left: 64px;
+  min-width: 325px;
+  position: absolute;
+  top: 321px;
+}
+
+.agent-area .text-11 {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 1.0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.agent-area .strong-select-language {
+  height: 14px;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 361px;
+  white-space: nowrap;
+  width: 227px;
+}
+
+.agent-area .divswitcher {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  left: 64px;
+  position: absolute;
+  top: 397px;
+  width: 173px;
+}
+
+.agent-area .link-8 {
+  border: 1px solid;
+  border-color: var(--celeste);
+  height: 32px;
+  min-width: 173px;
+  position: relative;
+}
+
+.agent-area .we-process-applicati {
+  height: 74px;
+  left: 508px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 156px;
+  width: 274px;
+}
+
+.agent-area .start-your-application {
+  height: 19px;
+  left: 508px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-decoration: underline;
+  top: 366px;
+  white-space: nowrap;
+  width: 242px;
+}
+
+.agent-area .text-12 {
+  height: 13px;
+  left: 750px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 370px;
+  white-space: nowrap;
+  width: 11px;
+}
+
+.agent-area .heading-2-quick-links {
+  height: 18px;
+  left: 850px;
+  letter-spacing: 0.10px;
+  line-height: 26px;
+  position: absolute;
+  top: 159px;
+  white-space: nowrap;
+  width: 282px;
+}
+
+.agent-area .list {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 850px;
+  min-height: 134px;
+  position: absolute;
+  top: 188px;
+  width: 212px;
+}
+
+.agent-area .heading-2-resources {
+  height: 18px;
+  left: 1144px;
+  letter-spacing: 0.10px;
+  line-height: 26px;
+  position: absolute;
+  top: 159px;
+  white-space: nowrap;
+  width: 203px;
+}
+
+.agent-area .list-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 1144px;
+  min-height: 80px;
+  position: absolute;
+  top: 188px;
+  width: 206px;
+}
+
+.agent-area .copyright-2020-idl {
+  height: 13px;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 518px;
+  white-space: nowrap;
+  width: 460px;
+}
+
+.agent-area .best-offer-this-mont-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.agent-area .buttons-primary-righ-5 {
+  align-items: flex-start;
+  background-color: var(--green);
+  border-radius: 4px;
+  display: flex;
+  height: 56px;
+  overflow: hidden;
+  padding: 17px 16px;
+  position: absolute;
+  width: 220px;
+}
+
+.agent-area .content-8 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.agent-area .div-mui-grid-root-4 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  min-width: 234px;
+}
+
+.agent-area .div-mui-paper-root-5 {
+  align-items: flex-start;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 32px;
+  position: absolute;
+}
+
+.agent-area .divplaceholder-10 {
+  display: flex;
+  padding: 0px 239px 0px 0px;
+}
+
+.agent-area .first-name-9 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.agent-area .forms-input-left-icon-large-filled-4 {
+  align-items: flex-end;
+  border-radius: 20px;
+  display: flex;
+  height: 81px;
+  left: 152px;
+  overflow: hidden;
+  position: absolute;
+  width: 1137px;
+}
+
+.agent-area .group {
+  display: flex;
+  position: absolute;
+}
+
+.agent-area .image-here-4 {
+  height: 198px;
+  width: 360px;
+}
+
+.agent-area .input-3 {
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--mercury);
+  border-radius: 8px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+}

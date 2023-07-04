@@ -1,0 +1,944 @@
+/* screen - contact-us */
+
+.contact-us {
+  align-items: flex-start;
+  background-color: var(--black-haze);
+  border: 0px none;
+  display: flex;
+  height: 2826px;
+  justify-content: center;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.contact-us .overlap-group4 {
+  height: 2906px;
+  margin-top: -80px;
+  position: relative;
+  width: 1442px;
+}
+
+.contact-us .overlap-group5 {
+  height: 2906px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1442px;
+}
+
+.contact-us .rectangle-1 {
+  height: 2332px;
+  left: 1px;
+  position: absolute;
+  top: 574px;
+  width: 1440px;
+}
+
+.contact-us .rectangle-2 {
+  background-color: var(--black-haze);
+  height: 686px;
+  left: 0;
+  position: absolute;
+  top: 1079px;
+  width: 1442px;
+}
+
+.contact-us .get-in-touch {
+  height: 56px;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 56px;
+  position: absolute;
+  top: 1196px;
+  white-space: nowrap;
+}
+
+.contact-us .rectangle-3 {
+  height: 558px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1764px;
+  width: 1440px;
+}
+
+.contact-us .rectangle-4 {
+  height: 558px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 1764px;
+  width: 1440px;
+}
+
+.contact-us .base-1 {
+  height: 558px;
+  left: 1px;
+  position: absolute;
+  top: 1764px;
+  width: 1440px;
+}
+
+.contact-us .buttons-primary-righ {
+  align-items: flex-start;
+  background-color: var(--new-car);
+  border-radius: 4px;
+  display: flex;
+  height: 56px;
+  left: 611px;
+  overflow: hidden;
+  padding: 17px 16px;
+  position: absolute;
+  top: 2170px;
+  width: 220px;
+}
+
+.contact-us .content {
+  align-items: flex-end;
+  display: flex;
+  height: 21px;
+  overflow: hidden;
+  width: 188px;
+}
+
+.contact-us .label {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1px;
+  min-height: 22px;
+  min-width: 188px;
+  text-align: center;
+}
+
+.contact-us .drive {
+  height: 67px;
+  left: 407px;
+  letter-spacing: 0;
+  line-height: 56px;
+  position: absolute;
+  text-align: center;
+  top: 1901px;
+  white-space: nowrap;
+  width: 635px;
+}
+
+.contact-us .word {
+  height: 67px;
+  left: 388px;
+  letter-spacing: 0;
+  line-height: 56px;
+  position: absolute;
+  text-align: center;
+  top: 1973px;
+  white-space: nowrap;
+  width: 673px;
+}
+
+.contact-us .online-process {
+  height: 67px;
+  left: 474px;
+  letter-spacing: 0;
+  line-height: 56px;
+  position: absolute;
+  text-align: center;
+  top: 2045px;
+  white-space: nowrap;
+  width: 500px;
+}
+
+.contact-us .footer {
+  align-items: flex-end;
+  background-color: transparent;
+  background-image: url(../img/base-3.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: row;
+  height: 592px;
+  justify-content: flex-start;
+  left: 1px;
+  mix-blend-mode: normal;
+  padding: 250px 508px;
+  position: absolute;
+  top: 2314px;
+  width: 1440px;
+}
+
+.contact-us .base {
+  height: 640px;
+  left: 1px;
+  position: absolute;
+  top: 80px;
+  width: 1440px;
+}
+
+.contact-us .buttons-primary-righ-1 {
+  background-color: var(--green);
+  left: 403px;
+}
+
+.contact-us .content-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 21px;
+  overflow: hidden;
+  padding: 0 15px;
+  width: 188px;
+}
+
+.contact-us .label-1 {
+  line-height: normal;
+  margin-bottom: -1px;
+  margin-left: 1px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.contact-us .car-for-rent-in-your {
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 80px;
+  position: absolute;
+  top: 228px;
+  width: 662px;
+}
+
+.contact-us .text-1 {
+  height: 65px;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 407px;
+  width: 472px;
+}
+
+.contact-us .separator {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--outer-space-2);
+  height: 1px;
+  left: 65px;
+  position: absolute;
+  top: 2784px;
+  width: 1285px;
+}
+
+.contact-us .privacy-policy {
+  left: 884px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 2822px;
+  white-space: nowrap;
+  width: 175px;
+}
+
+.contact-us .terms-y-conditions {
+  left: 1103px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 2822px;
+  white-space: nowrap;
+  width: 245px;
+}
+
+.contact-us .image-10 {
+  height: 82px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 2457px;
+  width: 379px;
+}
+
+.contact-us .p {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 65px;
+  min-height: 38px;
+  position: absolute;
+  top: 2578px;
+  width: 210px;
+}
+
+.contact-us .flex-row {
+  gap: 7px;
+  margin-top: 2px;
+  min-width: 360px;
+}
+
+.contact-us .text-19 {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+  width: 12px;
+}
+
+.contact-us .p-1 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  height: 19px;
+  left: 65px;
+  min-width: 325px;
+  position: absolute;
+  top: 2635px;
+}
+
+.contact-us .text-20 {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 1.0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.contact-us .strong-select-language {
+  height: 14px;
+  left: 65px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 2675px;
+  white-space: nowrap;
+  width: 227px;
+}
+
+.contact-us .divswitcher {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  left: 65px;
+  position: absolute;
+  top: 2711px;
+  width: 173px;
+}
+
+.contact-us .link {
+  border: 1px solid;
+  border-color: var(--celeste);
+  height: 32px;
+  min-width: 173px;
+  position: relative;
+}
+
+.contact-us .we-process-applicati {
+  height: 74px;
+  left: 509px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 2470px;
+  width: 274px;
+}
+
+.contact-us .start-your-application {
+  height: 19px;
+  left: 509px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-decoration: underline;
+  top: 2680px;
+  white-space: nowrap;
+  width: 242px;
+}
+
+.contact-us .text-21 {
+  height: 13px;
+  left: 751px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 2684px;
+  white-space: nowrap;
+  width: 11px;
+}
+
+.contact-us .heading-2-quick-links {
+  height: 18px;
+  left: 851px;
+  letter-spacing: 0.10px;
+  line-height: 26px;
+  position: absolute;
+  top: 2473px;
+  white-space: nowrap;
+  width: 282px;
+}
+
+.contact-us .list {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 851px;
+  min-height: 134px;
+  position: absolute;
+  top: 2502px;
+  width: 212px;
+}
+
+.contact-us .heading-2-resources {
+  height: 18px;
+  left: 1145px;
+  letter-spacing: 0.10px;
+  line-height: 26px;
+  position: absolute;
+  top: 2473px;
+  white-space: nowrap;
+  width: 203px;
+}
+
+.contact-us .list-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 1145px;
+  min-height: 80px;
+  position: absolute;
+  top: 2502px;
+  width: 206px;
+}
+
+.contact-us .copyright-2020-idl {
+  height: 13px;
+  left: 65px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 2832px;
+  white-space: nowrap;
+  width: 460px;
+}
+
+.contact-us .navbar {
+  background-color: var(--black-haze);
+  height: 148px;
+  left: 151px;
+  position: absolute;
+  top: 0;
+  width: 1140px;
+}
+
+.contact-us .group-106 {
+  align-items: center;
+  background-color: var(--new-car);
+  border-radius: 4px;
+  display: flex;
+  height: 40px;
+  left: 1100px;
+  min-width: 167px;
+  padding: 0 10px;
+  position: absolute;
+  top: 94px;
+}
+
+.contact-us .content-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  justify-content: center;
+  overflow: hidden;
+  width: 147px;
+}
+
+.contact-us .label-2 {
+  line-height: 20px;
+  min-width: 149px;
+  white-space: nowrap;
+}
+
+.contact-us .link-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 32px;
+  left: 399px;
+  position: absolute;
+  top: 100px;
+  width: fit-content;
+}
+
+.contact-us .menu {
+  height: 28px;
+  min-width: 44px;
+  position: relative;
+}
+
+.contact-us .link-2 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 44px;
+}
+
+.contact-us .content-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  overflow: hidden;
+  width: 44px;
+}
+
+.contact-us .reservation {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.contact-us .menu-1 {
+  min-width: 51.25px;
+}
+
+.contact-us .link-3 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 51px;
+}
+
+.contact-us .content-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  overflow: hidden;
+  width: 51px;
+}
+
+.contact-us .offers {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.contact-us .menu-2 {
+  min-width: 119.44px;
+}
+
+.contact-us .link-4 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 119px;
+}
+
+.contact-us .content-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  width: 119px;
+}
+
+.contact-us .location {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.contact-us .menu-3 {
+  min-width: 30px;
+}
+
+.contact-us .link-5 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 30px;
+}
+
+.contact-us .content-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  overflow: hidden;
+  width: 30px;
+}
+
+.contact-us .cars-services {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.contact-us .menu-4 {
+  min-width: 87.62px;
+}
+
+.contact-us .link-6 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 88px;
+}
+
+.contact-us .content-7 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  overflow: hidden;
+  width: 88px;
+}
+
+.contact-us .cars-services-1 {
+  text-decoration: underline;
+}
+
+.contact-us .menu-5 {
+  min-width: 157px;
+}
+
+.contact-us .link-7 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 157px;
+}
+
+.contact-us .content-8 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  overflow: hidden;
+  width: 157px;
+}
+
+.contact-us .link-logo {
+  height: 38px;
+  left: 167px;
+  object-fit: cover;
+  position: absolute;
+  top: 95px;
+  width: 182px;
+}
+
+.contact-us .flexible-schedule {
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 200px;
+  white-space: nowrap;
+  width: 484px;
+}
+
+.contact-us .buttons-primary-righ-2 {
+  background-color: var(--new-car);
+  left: 151px;
+}
+
+.contact-us .content-9 {
+  align-items: flex-end;
+  display: flex;
+  height: 21px;
+  justify-content: center;
+  overflow: hidden;
+  width: 188px;
+}
+
+.contact-us .label-3 {
+  line-height: normal;
+  margin-bottom: -1px;
+  min-height: 22px;
+  min-width: 192px;
+}
+
+.contact-us .frame-128 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 524px;
+  position: absolute;
+  top: 1196px;
+  width: fit-content;
+}
+
+.contact-us .input {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--mercury);
+  border-radius: 8px;
+  display: flex;
+  height: 51px;
+  padding: 16px;
+  position: relative;
+  width: 767px;
+}
+
+.contact-us .divplaceholder {
+  align-items: flex-start;
+  display: flex;
+  padding: 0px 239px 0px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.contact-us .link-8 {
+  align-items: flex-start;
+  background-color: var(--new-car);
+  border-radius: 4px;
+  display: flex;
+  left: 622px;
+  padding: 16px 33.39px 16px 32px;
+  position: absolute;
+  top: 1619px;
+  width: fit-content;
+}
+
+.contact-us .send-message {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.contact-us .captura-de-pantalla {
+  height: 71px;
+  left: 521px;
+  position: absolute;
+  top: 1504px;
+  width: 288px;
+}
+
+.contact-us .text-22 {
+  color: var(--green);
+  font-family: var(--font-family-font_awesome_5_free-solid);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  height: 16px;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 1429px;
+  white-space: nowrap;
+  width: 12px;
+}
+
+.contact-us .text-23 {
+  color: var(--green);
+  font-family: var(--font-family-font_awesome_5_free-solid);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 16px;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 1523px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.contact-us .overlap-group1 {
+  height: 426px;
+  left: 111px;
+  position: absolute;
+  top: 626px;
+  width: 440px;
+}
+
+.contact-us .overlap-group {
+  background-image: url(../img/rectangle-43.svg);
+  background-size: 100% 100%;
+  height: 242px;
+  left: 0;
+  position: absolute;
+  top: 184px;
+  width: 440px;
+}
+
+.contact-us .rectangle {
+  height: 162px;
+  left: 40px;
+  position: absolute;
+  top: 14px;
+  width: 360px;
+}
+
+.contact-us .corporate-rental {
+  left: 65px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 312px;
+}
+
+.contact-us .flex-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 96px;
+  left: 65px;
+  position: absolute;
+  top: 67px;
+  width: 312px;
+}
+
+.contact-us .text {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 312px;
+}
+
+.contact-us .d-iscount {
+  height: 198px;
+  left: 304px;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.contact-us .image-here {
+  height: 198px;
+  left: 40px;
+  position: absolute;
+  top: 0;
+  width: 264px;
+}
+
+.contact-us .overlap-group2 {
+  height: 426px;
+  left: 501px;
+  position: absolute;
+  top: 626px;
+  width: 440px;
+}
+
+.contact-us .overlap-group-1 {
+  background-image: url(../img/rectangle-45.svg);
+}
+
+.contact-us .flex-container {
+  flex-direction: column;
+  gap: 8px;
+  height: 72px;
+  left: 65px;
+  position: absolute;
+  top: 67px;
+  width: 312px;
+}
+
+.contact-us .d-iscount-1 {
+  padding: 0 27.9px;
+}
+
+.contact-us .message-circle {
+  height: 40px;
+  width: 40px;
+}
+
+.contact-us .image-here-1 {
+  background-image: url(../img/base-21@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 198px;
+  left: 40px;
+  position: absolute;
+  top: 0;
+  width: 264px;
+}
+
+.contact-us .overlap-group3 {
+  height: 426px;
+  left: 891px;
+  position: absolute;
+  top: 626px;
+  width: 440px;
+}
+
+.contact-us .overlap-group-2 {
+  background-image: url(../img/rectangle-48.svg);
+}
+
+.contact-us .d-iscount-2 {
+  padding: 0 24px;
+}
+
+.contact-us .svg {
+  height: 48px;
+  width: 48px;
+}
+
+.contact-us .vector {
+  height: 6px;
+  left: 1328px;
+  position: absolute;
+  top: 737px;
+  width: 20px;
+}
+
+.contact-us .thank-you-for-your-i {
+  height: 96px;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 1275px;
+  width: 307px;
+}
+
+.contact-us .accepted-delivery-wo {
+  height: 128px;
+  left: 181px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 1420px;
+  width: 307px;
+}
+
+.contact-us .span1 {
+  text-decoration: underline;
+}
+
+.contact-us .buttons-primary-righ-3 {
+  align-items: flex-start;
+  border-radius: 4px;
+  display: flex;
+  height: 56px;
+  overflow: hidden;
+  padding: 17px 16px;
+  position: absolute;
+  top: 504px;
+  width: 220px;
+}
+
+.contact-us .d-iscount-3 {
+  align-items: center;
+  background-image: url(../img/rectangle-47.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 198px;
+  left: 304px;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.contact-us .label-4 {
+  letter-spacing: 0;
+  text-align: center;
+}
+
+.contact-us .overlap-group-3 {
+  background-size: 100% 100%;
+  height: 242px;
+  left: 0;
+  position: absolute;
+  top: 184px;
+  width: 440px;
+}

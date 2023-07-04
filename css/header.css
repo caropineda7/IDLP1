@@ -1,0 +1,118 @@
+
+.header-top {
+  align-items: flex-start;
+  display: flex;
+  gap: 32px;
+  left: 401px;
+  position: absolute;
+  top: 100px;
+  width: fit-content;
+}
+
+.header-menu-home {
+    height: 28px;
+    min-width: 46px;
+    position: relative;
+  }
+
+  .header-home {
+    align-items: flex-start;
+    display: flex;
+    min-width: 46px;
+  }
+
+.content-home {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  width: 46px;
+}
+
+.header-menu-pricing {
+    min-width: 50px;
+  }
+
+  .header-pricing {
+    align-items: flex-start;
+    display: flex;
+    min-width: 50px;
+  }
+
+  .content-pricing {
+    align-items: flex-start;
+    display: flex;
+    height: 28px;
+    overflow: hidden;
+    width: 50px;
+  }
+
+  .header-menu-what {
+    min-width: 120px;
+  }
+
+  .header-what {
+    align-items: flex-start;
+    display: flex;
+    min-width: 120px;
+  }
+
+  .content-what {
+    align-items: flex-start;
+    display: flex;
+    height: 28px;
+    width: 120px;
+  }
+
+  .header-menu-faq {
+    min-width: 30px;
+  }
+
+  .header-faq {
+    align-items: flex-start;
+    display: flex;
+    min-width: 30px;
+  }
+
+  .content-faq {
+    align-items: flex-start;
+    display: flex;
+    height: 28px;
+    overflow: hidden;
+    width: 30px;
+  }
+
+  .header-menu-contact {
+    min-width: 85px;
+  }
+
+  .header-contact {
+    align-items: flex-start;
+    display: flex;
+    min-width: 85px;
+  }
+  
+  .content-contact {
+    align-items: flex-start;
+    display: flex;
+    height: 28px;
+    width: 85px;
+  }
+
+  .header-menu-suppor {
+    min-width: 157px;
+  }
+  
+ .header-suppor {
+    align-items: flex-start;
+    display: flex;
+    min-width: 157px;
+  }
+  
+  .content-suppor {
+    align-items: flex-start;
+    display: flex;
+    height: 28px;
+    overflow: hidden;
+    width: 157px;
+  }
+
