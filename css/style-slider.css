@@ -1,0 +1,207 @@
+:root { 
+    --alto: #dbdbdb;
+    --alto-2: #d9d9d9;
+    --black: #000000;
+    --black-haze: #f6f7f8;
+    --cararra: #ebecec;
+    --celeste: #cccccc;
+    --chicago: #5a5a5a;
+    --deep-sea: #008765;
+    --eerie-black: #191c22;
+    --granite-gray: #666666;
+    --gray-nurse: #eaebeb;
+    --green: #1dad66;
+    --gunsmoke: #818484;
+    --jade: #0ea85b;
+    --licorice: #121212;
+    --mercury: #e5e7eb;
+    --narvik: #eef8ef;
+    --new-car: #2d49e4;
+    --onyx: #35393b;
+    --outer-space: #2b3635;
+    --outer-space-2: #47494e;
+    --shark: #242424;
+    --storm-dust: #636363;
+    --white: #ffffff;
+   
+    --font-size-l: 24px;
+    --font-size-m: 20px;
+    --font-size-s: 18px;
+    --font-size-xl: 48px;
+    --font-size-xs: 16px;
+    --font-size-xxl: 60px;
+    --font-size-xxs: 14px;
+   
+    --font-family-arial-bold: "Arial-Bold", Helvetica;
+    --font-family-avenir_next-medium: "Avenir Next-Medium", Helvetica;
+    --font-family-avenir_next-regular: "Avenir Next-Regular", Helvetica;
+    --font-family-be_vietnam_pro: "Be Vietnam Pro", Helvetica;
+    --font-family-font_awesome_5_free-solid: "Font Awesome 5 Free-Solid", Helvetica;
+    --font-family-inter: "Inter", Helvetica;
+    --font-family-poppins: "Poppins", Helvetica;
+    --font-family-roboto: "Roboto", Helvetica;
+  }
+
+body {
+    background: #5C717F;
+}
+
+.direction {
+    text-align: center;
+}
+
+.direction button {
+    /* font-family: cursive; */
+    font-weight: bold;
+    background-color: #ffffff44;
+    border: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    transition: 0.5s;
+    margin: 0 10px;
+}
+
+.direction button:hover {
+    background-color: var(--green);
+}
+
+.item-slider {
+    border-radius: 15px;
+    width: 360px;
+    height: 360px;
+    /* background-image: linear-gradient(to top, #AEC0CE, #ECECF2); */
+    overflow: hidden;
+    transition: 0.5s;
+    margin: 10px;
+    scroll-snap-align: start;
+}
+
+
+
+.item-slider .avatar-slider {
+    display: block;
+    margin-bottom: 10px;
+    width: 360px;
+    height: 198px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.image-here {
+    height: 198px;
+    left: 40px;
+    position: absolute;
+    top: 0;
+    width: 360px;
+}
+
+.rectangle {
+  height: 162px;
+  left: 40px;
+  /* position:sticky; */
+  object-fit:unset;
+  top: 14px;
+  width: 360px;
+  z-index: unset;
+}
+
+.section-slider {
+    /* left: 65px; */
+    letter-spacing: 0;
+    /* line-height: 24px; */
+    /* position: absolute; */
+    /* top: 67px; */
+    width: 325px;
+    height: auto;
+    margin-top: 10px;
+  }
+
+.tittle-slider {
+    /* left: 0px; */
+    letter-spacing: 0;
+    line-height: normal;
+    /* position: absolute; */
+    /* top: 26px; */
+    width: 325px;
+    height: auto;
+  }
+
+  .inter-semi-bold-onyx-24px {
+    color: var(--onyx);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 600;
+  }
+
+.item-slider .content-slider {
+    background-image: linear-gradient(to top, #ffffff, #ffffff);
+    border-radius: 20px;
+    height: 162px;
+    left: 0;
+    object-fit:cover;
+    top: 192px;
+    width: 360px;
+    padding: 15px;
+    /* font-family: monospace; */
+}
+
+.inter-normal-gunsmoke-16px {
+    color: var(--gunsmoke);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xs);
+    font-style: normal;
+    font-weight: 400;
+  }
+
+.item-slider .content-slider table td {
+    padding: 10px 0;
+    border-bottom: 1px solid #AEC0CE;
+}
+
+.item-slider .content-slider table td:nth-child(2) {
+    text-align: right;
+}
+
+.item-slider .nameGroup {
+    text-align: center;
+    border-bottom: none !important;
+}
+
+#list-slider {
+    display: flex;
+    width: max-content;
+}
+
+#formList-slider {
+    width: 1280px;
+    max-width: 100%;
+    overflow: auto;
+    scroll-behavior: smooth;
+    scroll-snap-type: both;
+}
+
+#formList-slider::-webkit-scrollbar {
+    display: none;
+}
+
+@media screen and (max-width: 1024px) {
+    .item-slider {
+        width: calc(33.3vw - 20px);
+    }
+
+    .direction {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .item-slider {
+        width: calc(50vw - 20px);
+    }
+
+    .direction {
+        display: none;
+    }
+}
