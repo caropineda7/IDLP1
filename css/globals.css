@@ -159,8 +159,6 @@
 
 }
 
-
-
 .group-92-1 {
   align-items: flex-start;
   background-color: var(--new-car);
@@ -579,4 +577,28 @@
   top: 61px;
   white-space: nowrap;
   width: 175px;
+}
+
+.ellipse-32 {
+  text-align: center;
+}
+
+.ellipse-32 button{
+  
+    /* font-family: cursive; */
+    font-weight: bold;
+    background-color: white; 
+    color: var(--new-car);
+    border: none;
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+    transition: 0.5s;
+    margin: 0 10px;
+}
+.ellipse-32 button:hover {
+
+  background-color: grey; 
+  
+
 }
