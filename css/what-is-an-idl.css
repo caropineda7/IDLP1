@@ -463,7 +463,7 @@
 }
 
 .what-is-an-idl .item-1 {
-  gap: 788px;
+  gap: 770px;
 }
 
 .what-is-an-idl .text-1 {
@@ -472,7 +472,7 @@
   line-height: normal;
   margin-bottom: -2px;
   min-height: 30px;
-  min-width: 270px;
+  min-width: 1040px;
 }
 
 .what-is-an-idl .path {
@@ -1119,13 +1119,14 @@
 .what-is-an-idl .item-4 {
   align-items: center;
   display: flex;
-  height: 28px;
+  height: 33px;
   left: 28px;
   overflow: hidden;
   padding: 0 1px;
   position: absolute;
   top: 25px;
-  width: 1080px;
+  width: fit-content;
+  
 }
 
 .what-is-an-idl .label-4 {
@@ -1138,4 +1139,31 @@
   height: 27px;
   margin-bottom: -0.42px;
   width: 27px;
+}
+
+.direction1 {
+  text-align: center;
+}
+
+.direction1 button {
+  /* font-family: cursive; */
+  font-weight: bold;
+  /* background-color: #ffffff44; */
+  border: none;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  transition: 0.5s;
+  margin: 5 5px;
+}
+
+.direction1 button:hover {
+  background-color: var(--green);
+}
+.oval-4 {
+  background-color: var(--alto);
+  border-radius: 6px;
+  height: 12px;
+  width: 12px;
+  color: green;
 }

@@ -367,6 +367,8 @@
 
 .pricing .vector-1 {
   transform: rotate(180.00deg);
+  height: 14px;
+  width: 9px;
 }
 
 .pricing .separator {
@@ -1014,7 +1016,7 @@
   align-items: center;
   background-color: var(--white);
   border-radius: 8px;
-  box-shadow: 0px -4px 20px #0000000a , 0px 28px 32px #00000014;
+  box-shadow: 0px -4px 20px #0000000a, 0px 28px 32px #00000014;
   display: flex;
   gap: 151px;
   height: 107px;
@@ -1127,4 +1129,32 @@
 .pricing .vector-2 {
   height: 14px;
   width: 9px;
+}
+
+.oval-3 {
+  background-color: var(--alto);
+  border-radius: 6px;
+  height: 12px;
+  width: 12px;
+  color: green; 
+}
+
+.direction1 {
+  text-align: center;
+}
+
+.direction1 button {
+  /* font-family: cursive; */
+  font-weight: bold;
+  /* background-color: #ffffff44; */
+  border: none;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  transition: 0.5s;
+  margin: 5 5px;
+}
+
+.direction1 button:hover {
+  background-color: var(--green);
 }
