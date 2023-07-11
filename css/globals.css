@@ -9,18 +9,21 @@
   font-weight: 400;
   src: url("../fonts/Font Awesome 5 Free-Solid-900.otf") format("opentype");
 }
+
 @font-face {
   font-family: "Arial-Bold";
   font-style: normal;
   font-weight: 700;
   src: url("../fonts/FontsFree-Net-arial-bold.ttf") format("truetype");
 }
+
 @font-face {
   font-family: "Avenir Next-Regular";
   font-style: normal;
   font-weight: 400;
   src: url("../fonts/Metropolis-Regular.otf") format("opentype");
 }
+
 @font-face {
   font-family: "Avenir Next-Medium";
   font-style: normal;
@@ -42,7 +45,7 @@
   width: 100%;
 }
 
-.container-center-horizontal > * {
+.container-center-horizontal>* {
   flex-shrink: 0;
   pointer-events: auto;
 }
@@ -134,28 +137,30 @@
   white-space: nowrap;
   width: fit-content;
 }
+
 .ellipse-31 {
   text-align: center;
 }
 
-.ellipse-31 button{
-  
-    /* font-family: cursive; */
-    font-weight: bold;
-    background-color: var(--new-car); 
-    
-    color: white;
-    border: none;
-    width: 33px;
-    height: 33px;
-    border-radius: 50%;
-    transition: 0.5s;
-    margin: 0 10px;
+.ellipse-31 button {
+
+  /* font-family: cursive; */
+  font-weight: bold;
+  background-color: var(--new-car);
+
+  color: white;
+  border: none;
+  width: 33px;
+  height: 33px;
+  border-radius: 50%;
+  transition: 0.5s;
+  margin: 0 10px;
 }
+
 .ellipse-31 button:hover {
 
-  background-color: grey; 
-  
+  background-color: grey;
+
 
 }
 
@@ -583,22 +588,48 @@
   text-align: center;
 }
 
-.ellipse-32 button{
-  
-    /* font-family: cursive; */
-    font-weight: bold;
-    background-color: white; 
-    color: var(--new-car);
-    border: none;
-    width: 33px;
-    height: 33px;
-    border-radius: 50%;
-    transition: 0.5s;
-    margin: 0 10px;
+.ellipse-32 button {
+
+  /* font-family: cursive; */
+  font-weight: bold;
+  background-color: white;
+  color: var(--new-car);
+  border: none;
+  width: 33px;
+  height: 33px;
+  border-radius: 50%;
+  transition: 0.5s;
+  margin: 0 10px;
 }
+
 .ellipse-32 button:hover {
 
-  background-color: grey; 
-  
+  background-color: grey;
 
 }
+
+
+.header a:visited {
+  color: black
+}
+
+.header a:active {
+  color: blue
+}
+
+.header-actual a:visited {
+  color: blue
+}
+
+.header-actual a:active {
+  color: blue
+}
+
+
+.hiperv a:visited {
+  color: white
+}
+
+.hiperv a:active {
+  color: blue
+  }
