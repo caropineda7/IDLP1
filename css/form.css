@@ -1,0 +1,180 @@
+.input-form {
+    align-items: center;
+    background-color: var(--white);
+    border: 3px solid;
+    border-color: var(--mercury);
+    border-radius: 8px;
+    display: flex;
+    /* padding: 16px; */
+    position: relative;
+    width: 364px;
+  }
+
+  .divplaceholder-form {
+    align-items: center;
+    display: flex;
+    /* padding: 0px 239px 0px 0px; */
+    position: relative;
+    width: 359px;
+  }
+
+  .divplaceholder-form-1 {
+    align-items: center;
+    position: relative;
+    width: 313px;
+    display: flex;
+    padding: 0px 0px 0px 0px;
+  }
+
+  .divplaceholder-form-2 {
+    align-items: center;
+    position: relative;
+    width: 49px;
+    display: flex;
+    padding: 0px 0px 0px 0px;
+  }
+
+  .divplaceholder-form-3 {
+    align-items: center;
+    margin-right: -22.00px;
+    position: relative;
+    width: fit-content;
+    display: flex;
+    padding: 0px 0px 0px 0px;
+  }
+
+  .divplaceholder-form-4 {
+    align-items: center;
+    margin-right: -28.00px;
+    position: relative;
+    width: fit-content;
+    display: flex;
+    padding: 0px 0px 0px 0px;
+  }
+
+  .divplaceholder-form-select {
+    align-items: center;
+    display: flex;
+    /* padding: 0px 239px 0px 0px; */
+    position: relative;
+    width: 359px;
+  }
+
+  .first-name-select {
+    letter-spacing: 0;
+    line-height: normal;
+    /* margin-top: -1.00px; */
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+    border: none;
+    width: 359px;
+    height: 45px;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+  }
+
+  .input-form-4 {
+    background-color: var(--white);
+    border: 2px solid;
+    border-color: var(--mercury);
+    border-radius: 8px;
+    /* display: flex; */
+    /* padding: 16px; */
+    position: relative;
+    width: 105px;
+    height: 50.33px;;
+  }
+
+  .dd-form {
+    letter-spacing: 0;
+    line-height: normal;
+    /* margin-top: -1.00px; */
+    position:static;
+    width: 105px;
+    height: 45px;
+    border: none;
+    border-radius: 8px;
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .input-form-2 {
+    align-items: center;
+    gap: 8px;
+    width: 105px;
+  }
+
+  .input-form-1 {
+    align-items: center;
+    gap: 8px;
+    width: 364px;
+    background-color: var(--white);
+    border: 2px solid;
+    border-color: var(--mercury);
+    border-radius: 8px;
+    /* display: flex; */
+    /* padding: 16px; */
+    position: relative;
+    height: 50.33px;
+  }
+  .first-name-form {
+    letter-spacing: 0;
+    line-height: normal;
+    /* margin-top: -1.00px; */
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+    border: none;
+    width: 359px;
+    height: 45px;
+    border-radius: 8px;
+    padding-left: 10px;
+  }
+ 
+  .street-address-form {
+    letter-spacing: 0;
+    line-height: normal;
+    /* margin-top: -1.00px; */
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+    border: none;
+    width: 763px;
+    height: 45px;
+    border-radius: 8px;
+    padding-left: 10px;
+  }
+
+  .input-address-form {
+    align-items: center;
+    gap: 8px;
+    width: 767px;
+    background-color: var(--white);
+    border: 2px solid;
+    border-color: var(--mercury);
+    border-radius: 8px;
+    /* display: flex; */
+    /* padding: 16px; */
+    position: relative;
+    height: 50.33px;
+  }
+
+  .account-info-form {
+    align-items: center;
+    gap: 8px;
+    width: 767px;
+    background-color: var(--white);
+    border: 2px solid;
+    border-color: var(--mercury);
+    border-radius: 8px;
+    /* display: flex; */
+    /* padding: 16px; */
+    position: relative;
+    height: 50.33px;
+  }
+
+  

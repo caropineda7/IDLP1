@@ -1235,6 +1235,14 @@
   top: 6042px;
 }
 
+.agent-area .frame-92 {
+  flex-direction: column;
+  gap: 24px;
+  left: 518px;
+  position: absolute;
+  top: 6300px;
+}
+
 .agent-area .input-1 {
   align-items: flex-start;
   width: 767px;
